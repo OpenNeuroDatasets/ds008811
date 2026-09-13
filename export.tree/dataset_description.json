@@ -1,0 +1,15 @@
+{
+    "Name": "Synthetic 3D Brain MRI Dataset from a Glioma Cohort",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "Authors": [
+        "Austin A. Barr"
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.7937/jc8x-9874"
+        }
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008811.v1.0.0"
+}
