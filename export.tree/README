@@ -1,0 +1,15 @@
+# Synthetic 3D Brain MRI Dataset from a Glioma Cohort
+
+This dataset contains synthetic 3D T1-weighted contrast-enhanced
+(T1CE) brain MRI volumes trained from RSNA-ASNR-MICCAI-BraTS-2021 
+(DOI: 10.7937/jc8x-9874).
+
+Each synthetic subject has one MRI volume.
+
+The images have been organized into a BIDS-compatible structure.
+
+The BIDS T1w suffix is used for the contrast-enhanced T1-weighted
+anatomical images.
+
+IMPORTANT:
+These images are synthetic.
